@@ -30,7 +30,7 @@ Model bisnis self service laundry dirancang dengan struktur biaya yang sederhana
 
 - Modal Awal: Rp 100.500.000,00
 - Break Even Point (BEP): Diproyeksikan tercapai dalam beberapa bulan operasional
-- Proyeksi Profit (Bulan ke-3): Rp 23.549.400,00
+- Proyeksi Profit (Bulan ke-3): Rp 20.565.000,00
 
 - *link*: [AKSES DOKUMEN: Perhitungan Keuangan Lengkap (Google Sheets)](https://docs.google.com/spreadsheets/d/1L81xroYWk3PHeE5qF0bS1anTsksV4QkqYfRRBi2p0mw/edit?usp=sharing)
 
@@ -43,7 +43,7 @@ Kajian aspek legalitas dan mitigasi risiko dilakukan untuk memastikan kesiapan u
 
 - Solusi yang Ditawarkan: Bentuk Badan Usaha: Usaha Perorangan / PT Perorangan
 
-- *link*: [AKSES DOKUMEN: Laporan Validasi & Bukti Lapangan (Sub-Bab 4)](https://docs.google.com/document/d/1sPsfLVbm8FneMLkgT1i4E-Tb_JSwW4yzZcUdNCsTbBw/edit?usp=sharing)
+- *link*: [AKSES DOKUMEN: (Sub-Bab 4)](https://docs.google.com/document/d/1sPsfLVbm8FneMLkgT1i4E-Tb_JSwW4yzZcUdNCsTbBw/edit?usp=sharing)
 
 ## 📺 4. Presentasi Produk (Pitch Deck)
 
